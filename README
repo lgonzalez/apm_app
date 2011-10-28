@@ -1,0 +1,4 @@
+This project is for reading a parsing power measurements out of TI's DARA board
+which takes measurements from Blaze and Blaze tablet boards.
+
+It uses needs the FTDI API for reading the information from FT2232H chip.
